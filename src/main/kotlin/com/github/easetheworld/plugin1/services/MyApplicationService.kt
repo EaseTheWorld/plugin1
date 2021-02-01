@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.easetheworld.plugin1.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.easetheworld.plugin1.MyBundle
 
 class MyApplicationService {
 
